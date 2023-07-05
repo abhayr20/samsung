@@ -1,4 +1,4 @@
 # R shiny app to visualize samsung watch data 
 
-Set ECG_value min to 500 and ECG_value max to 700 
+Set ECG_value min to 500 and ECG_value max to 700 /n
 Sample Data collected using Samsung watch apk version 2 (format maybe outdated)
